@@ -1,0 +1,6 @@
+data/
+*.tar.gz
+*.pt
+*.pth
+.ipynb_checkpoints/
+__pycache__/
